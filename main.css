@@ -1,0 +1,46 @@
+body {
+  background-color: black;
+  direction: rtl;
+  color: white;
+  font-size: 26px;
+}
+.container {
+  width: 50%;
+  margin: 0 auto;
+  height: 330px;
+  background-color: #00519c;
+}
+
+#qu {
+  padding: 20px;
+  width: 60%;
+  float: right;
+  background-color: #003362;
+}
+
+#an {
+  padding: 10px;
+  height: 150px;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: #00519c;
+}
+
+#result {
+  background-color: #00519c;
+  padding: 20px;
+  height: 50px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+#time {
+  padding: 20px;
+  background-color: #003362;
+}
+
+.anOne {
+  width: 40%;
+  float: right;
+  padding: 20px;
+}
